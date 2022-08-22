@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Cam!
+### Hey, I'm Cam 👋
 ![I am in my 3rd year of Software Engineering](https://github.com/CamGham/CamGham/blob/main/githubbanner.png)
 #### I am in my 3rd year of Software Engineering
 
