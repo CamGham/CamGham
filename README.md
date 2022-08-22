@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Cam!
 #### I am in my 3rd year of Software Engineering
-![I am in my 3rd year of Software Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am in my 3rd year of Software Engineering](https://github.com/CamGham/CamGham/blob/main/Cameron%20Graham.png)
 
 I am a keen learner and have a passion for full stack web and app development.
 
