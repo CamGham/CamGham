@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Cam!
+#### I am in my 3rd year of Software Engineering
+![I am in my 3rd year of Software Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**CamGham/CamGham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a keen learner and have a passion for full stack web and app development.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on university projects 
+- 🌱 I’m currently learning the MERN stack 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CamGham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cameron-graham-611444241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://camgham.github.io/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamGham)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamGham&show_icons=true)  
+
