@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Cam!
-![I am in my 3rd year of Software Engineering](https://github.com/CamGham/CamGham/blob/main/Cameron%20Graham.png)
+![I am in my 3rd year of Software Engineering](https://github.com/CamGham/CamGham/blob/main/Copy%20of%20Copy%20of%20Cameron%20Graham.png)
 #### I am in my 3rd year of Software Engineering
 
 
