@@ -36,7 +36,7 @@ Made using HTML, PHP and CSS
 <img src="https://github.com/CamGham/CamGham/blob/main/CabsOnline.png" width="500">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamGham)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camgham&show_icons=true&theme=dark&locale=en&layout=compact" alt="camgham" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamGham&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camgham&show_icons=true&theme=dark&locale=en" alt="camgham" /></p>
 
