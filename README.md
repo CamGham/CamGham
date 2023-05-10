@@ -1,10 +1,9 @@
 ## Hey, I'm Cam 👋
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CamGham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cameron-graham-611444241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://camgham.github.io/)  
-#### I am in my 4th year of Software Engineering
 
 
-I'm a keen learner and have a passion for full stack web and app development.
+I love to learn and use new technology and have a passion for full stack web and app development.
 
 Skills: SWIFT/ KOTLIN / JS / HTML / CSS
 
