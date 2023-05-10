@@ -5,7 +5,7 @@
 
 I love to learn and use new technology and have a passion for full stack web and app development.
 
-Skills: SWIFT/ KOTLIN / JS / HTML / CSS
+#### Skills: SWIFT/ KOTLIN / JS / HTML / CSS
 
 - 🌱 I’m currently working on a remote IOT system using a Kotlin app connected to a raspberry pi over bluetooth that monitors a SparkFun weather station
 - 💻 I’m currently working part time at UiRevolution doing app developemnt
