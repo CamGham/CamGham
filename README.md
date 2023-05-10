@@ -12,16 +12,16 @@ I love to learn and use new technology and have a passion for full stack web and
 
 ## What I've been working on
 ### Shooter
-A React web app aimed at helping players develop a consistant jumpshot. 
+A React web app aimed at helping players develop a consistant jumpshot 🏀
 
 Utilizing tensorflow's posenet to identify body positioning, an analysis of a basketball players form can take place, providing the ability to give the user statistical results in order to help improve their jumpshot form thus scoring potential.
 
 <img src="https://github.com/CamGham/CamGham/blob/main/Shooter.jpg" width="500">
 
 ### SportsHub
-A sporting social media app aimed at athletes and anyone keen to create and attend sporting events.
+A sporting social media app aimed at athletes and anyone keen to create and attend sporting events 📆
 
-Made using React Native, JavaScript and Firebase with my mates from uni using the agile technique SCRUM.
+Made using React Native, JavaScript and Firebase with my mates from uni using SCRUM.
 
 <img src="https://github.com/CamGham/CamGham/blob/main/SportsHub.png" width="500">
 
