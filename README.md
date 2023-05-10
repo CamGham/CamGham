@@ -12,6 +12,13 @@ Skills: SWIFT/ KOTLIN / JS / HTML / CSS
 - 💻 I’m currently working part time at UiRevolution doing app developemnt
 
 ## What I've been working on
+### Shooter
+A React web app aimed at helping players develop a consistant jumpshot. 
+
+Utilizing tensorflow's posenet to identify body positioning, an analysis of a basketball players form can take place, providing the ability to give the user statistical results in order to help improve their jumpshot form thus scoring potential.
+
+<img src="https://github.com/CamGham/CamGham/blob/main/Shooter.jpg" width="500">
+
 ### SportsHub
 A sporting social media app aimed at athletes and anyone keen to create and attend sporting events.
 
